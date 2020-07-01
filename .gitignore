@@ -125,3 +125,7 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+kali-nethunter-kernel/
+
+arch/arm64/configs/nethunter_defconfig.old
